@@ -1,0 +1,20 @@
+PLANEJAMENTO LÓGICO — TASKTRACKER
+
+Este arquivo é um modelo provisório para a estrutura exigida na Fase 2.
+Substitua-o pelo PDF original do planejamento lógico entregue na Fase 1, caso você o tenha.
+
+Objetivo:
+Criar uma aplicação CLI para cadastrar e visualizar tarefas.
+
+Dados de cada tarefa:
+- Título (obrigatório)
+- Descrição
+- Prioridade (Alta, Média ou Baixa)
+- Data limite
+- Status (inicialmente Pendente)
+
+Fluxo principal:
+1. Exibir menu.
+2. Permitir cadastro de tarefa com validação.
+3. Permitir visualizar tarefas cadastradas.
+4. Encerrar quando o usuário selecionar a opção 3.
